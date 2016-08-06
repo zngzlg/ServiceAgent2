@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+PostAppTest-Class: service.AppLauncherService
+Main-Class: service.AppLauncherService
+
